@@ -3,7 +3,7 @@ idk. just messing around
 
 # Very Simple Calendar
 
-its just a calendar. yk how it works.
+its just a calendar in python. yk how it works.
 
 
 
